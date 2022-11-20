@@ -1,12 +1,12 @@
-### hi!
+## hi!
 
-i'm
+### i'm
 
-creator and maintainer of
+#### creator and maintainer of
 - [dro](https://crates.io/crates/dro)
 - [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
 
-and i keep track of these
+#### and i keep track of these
 
 [homebrew taps repository 🚰](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
 
