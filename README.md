@@ -1,5 +1,5 @@
 creator and maintainer of
-- [Dro](https://crates.io/crates/dro)
+- [dro](https://crates.io/crates/dro)
 - [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
 
 [homebrew taps repository 🚰](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
