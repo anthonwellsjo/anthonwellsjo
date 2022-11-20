@@ -1,10 +1,8 @@
-📚 creator and maintainer of
+creator and maintainer of
 - [Dro](https://crates.io/crates/dro)
 - [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
 
-----
-
-🍺 homebrew [🚰](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
+[homebrew taps repository 🚰](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
 
 
 
