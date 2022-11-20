@@ -2,7 +2,7 @@
 - [Dro](https://crates.io/crates/dro)
 - [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
 
-🚰 [My taps](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
+[🚰](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
 
 
 
