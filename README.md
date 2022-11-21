@@ -6,7 +6,7 @@
 
 #### and i keep track of these
 
-[homebrew taps repository 🚰](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
+[homebrew taps 🚰](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
 
 
 
