@@ -4,9 +4,6 @@
 - [dro](https://crates.io/crates/dro)
 - [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
 
-#### and i take care of these
-
-[homebrew taps 🚰](https://github.com/anthonwellsjo/homebrew-tap/tree/main/Formula)
 
 
 ----------------------------------------------------------------------------------------
