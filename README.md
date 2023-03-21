@@ -1,6 +1,6 @@
 ## hi!
 
-..blabla.. **rust** ..blabla.. **typescript** ..blabla.. father of 3 wonderful kids ♥️
+..blabla.. **rust** ..blabla.. **typescript** ..blabla.. **and father of 3 wonderful kids** ♥️
 
 #### my software projects
 - [crl](https://github.com/anthonwellsjo/crl)
