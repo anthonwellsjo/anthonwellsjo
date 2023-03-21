@@ -7,7 +7,7 @@
 - [dro](https://crates.io/crates/dro)
 - [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
 
-
+#### my [linkedin](https://www.linkedin.com/in/anthonwellsjo/)
 
 
 
