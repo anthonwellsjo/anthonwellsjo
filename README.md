@@ -1,6 +1,8 @@
 ## hi!
 
-#### i'm the creator and maintainer of
+..blabla.. **rust** ..blabla.. **typescript** ..blabla.. father of 3 wonderful kids ♥️
+
+#### my software projects
 - [crl](https://github.com/anthonwellsjo/crl)
 - [dro](https://crates.io/crates/dro)
 - [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
