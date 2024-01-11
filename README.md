@@ -3,8 +3,8 @@
 ..blabla.. **rust** ..blabla.. **typescript** ..blabla.. **and father of 3 wonderful kids** ♥️
 
 #### my software projects
-- [crl](https://github.com/anthonwellsjo/crl)
-- [dro](https://crates.io/crates/dro)
+- [crl - clipboard daemon](https://github.com/anthonwellsjo/crl)
+- [dro - folder scoped todo tool](https://crates.io/crates/dro)
 - [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
 
 #### my [linkedin](https://www.linkedin.com/in/anthonwellsjo/)
