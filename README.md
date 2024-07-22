@@ -1,11 +1,6 @@
 ## hi!
 
-..blabla.. **rust** ..blabla.. **typescript** ..blabla.. **and father of 3 wonderful kids** ♥️
-
-#### my software projects
-- [crl - clipboard daemon](https://github.com/anthonwellsjo/crl)
-- [dro - folder scoped and git friendly todo cli](https://crates.io/crates/dro)
-- [react-batch-tracker](https://www.npmjs.com/package/react-batch-tracker)
+I'm Anthon. I automate things.
 
 #### my [linkedin](https://www.linkedin.com/in/anthonwellsjo/)
 
