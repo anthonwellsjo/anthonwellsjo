@@ -1,6 +1,6 @@
 ## hi!
 
-I'm Anthon. I automate things.
+I'm Anthon and I like to automate things. 
 
 #### my [linkedin](https://www.linkedin.com/in/anthonwellsjo/)
 
